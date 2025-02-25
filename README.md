@@ -2,7 +2,7 @@
 - ### Mail Service
 - ### PostgresSQL HikariCP Slick
 - ### Circe.IO as Json
-- ### Docker Configured
+- ### Docker Config
 
 
 ## Installation and running
