@@ -1,7 +1,7 @@
 ## Scala HttpService sample using Pekko/Akka Framework with samples of
-- ### Mail Service
+- ### Mail Client
 - ### PostgresSQL HikariCP Slick
-- ### Circe.IO as Json
+- ### Json Circe.IO
 - ### Docker Config
 
 
